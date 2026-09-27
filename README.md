@@ -39,3 +39,6 @@ This project is actively evolving as I refine matching quality, evaluation workf
 Built by [Kalyan](https://github.com/kalyan870).
 
 Feedback and suggestions are welcome.
+## Repository status
+
+This GitHub repository currently contains project documentation only; the runnable app source is not tracked here. Its feature list and workflow describe the project concept, not verified code behavior. For a code-backed resume matching example, see [AI Resume + Job Matcher](https://github.com/kalyan870/AI-Resume-Job-Matcher-System).
