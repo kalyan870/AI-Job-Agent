@@ -6,7 +6,7 @@ Documentation-only project concept for exploring how AI could support resume mat
 
 The README describes a proposed workflow for comparing candidate information with role requirements. It is a concept description, not an implemented or evaluated system.
 
-## Included AI concepts
+## Proposed AI concepts (not implemented)
 
 - AI resume matching against job descriptions
 - FactGuard for AI-assisted claim verification
@@ -14,7 +14,7 @@ The README describes a proposed workflow for comparing candidate information wit
 - Structured analysis for career-related workflows
 - Frontend experiences for exploring results
 
-## Workflow
+## Proposed workflow
 
 1. Provide candidate and role information
 2. Extract relevant skills and requirements
@@ -26,7 +26,7 @@ The README describes a proposed workflow for comparing candidate information wit
 
 Job applications often require repeated research and careful comparison. AI-assisted workflows can reduce manual effort while helping candidates focus on relevant opportunities and improve the quality of their preparation.
 
-## Tech focus
+## Proposed focus
 
 AI Agents • Resume Matching • Natural Language Processing • Career Automation • Data Analysis • Full-Stack Development
 
