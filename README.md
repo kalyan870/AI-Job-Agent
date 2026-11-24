@@ -1,12 +1,12 @@
 # AI Job Agent
 
-An AI-assisted job search toolkit that explores how intelligent systems can improve resume matching, fact verification, and decision support across career workflows.
+Documentation-only project concept for exploring how AI could support resume matching, fact verification, and career decision workflows. This repository does not contain a runnable AI agent or job-search application.
 
 ## Overview
 
-AI Job Agent brings together practical AI concepts for job discovery and career preparation. The project focuses on matching candidate information with role requirements and supporting more informed application decisions.
+The README describes a proposed workflow for comparing candidate information with role requirements. It is a concept description, not an implemented or evaluated system.
 
-## Included AI concepts
+## Proposed AI concepts (not implemented)
 
 - AI resume matching against job descriptions
 - FactGuard for AI-assisted claim verification
@@ -14,7 +14,7 @@ AI Job Agent brings together practical AI concepts for job discovery and career 
 - Structured analysis for career-related workflows
 - Frontend experiences for exploring results
 
-## Workflow
+## Proposed workflow
 
 1. Provide candidate and role information
 2. Extract relevant skills and requirements
@@ -26,13 +26,13 @@ AI Job Agent brings together practical AI concepts for job discovery and career 
 
 Job applications often require repeated research and careful comparison. AI-assisted workflows can reduce manual effort while helping candidates focus on relevant opportunities and improve the quality of their preparation.
 
-## Tech focus
+## Proposed focus
 
 AI Agents • Resume Matching • Natural Language Processing • Career Automation • Data Analysis • Full-Stack Development
 
 ## Project status
 
-This project is actively evolving as I refine matching quality, evaluation workflows, and the user experience.
+Concept only. No application code, model, data, evaluation workflow, setup instructions, or runnable demo is tracked in this repository.
 
 ## Author
 
