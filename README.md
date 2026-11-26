@@ -1,6 +1,7 @@
 # AI Job Agent
 
 An AI-assisted job search toolkit that explores how intelligent systems can improve resume matching, fact verification, and decision support across career workflows.
+**Live link:** [https://ai-job-agent-opal.vercel.app/](https://ai-job-agent-opal.vercel.app/)
 
 ## Overview
 
@@ -42,3 +43,10 @@ Feedback and suggestions are welcome.
 ## Repository status
 
 This GitHub repository currently contains project documentation only; the runnable app source is not tracked here. Its feature list and workflow describe the project concept, not verified code behavior. For a code-backed resume matching example, see [AI Resume + Job Matcher](https://github.com/kalyan870/AI-Resume-Job-Matcher-System).
+
+## Architecture
+
+
+![AI-Job-Agent architecture map](docs/images/ai-job-agent-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/ai-job-agent-architecture.svg)
